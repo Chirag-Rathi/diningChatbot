@@ -4,6 +4,7 @@ In this first assignment we will implement a serverless, microservice-driven web
 
 Contributors:
 [Chirag Rathi](https://github.com/Chirag-Rathi)
+
 [Ajinkya Sonawane](https://github.com/Ajinkya-Sonawane)
 
 Assignment 1 architecture diagram
