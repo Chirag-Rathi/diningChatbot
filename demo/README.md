@@ -1,1 +1,1 @@
-#Demo of Bot Images.
+Demo of Bot Images.
