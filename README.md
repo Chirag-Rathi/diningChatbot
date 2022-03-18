@@ -4,4 +4,4 @@ In this first assignment we will implement a serverless, microservice-driven web
 
 Assignment 1 architecture diagram
 
-https://github.com/Chirag-Rathi/diningChatbot/issues/1#issue-1173664004
+<img width="929" alt="Assignment 1 architecture diagram" src="https://user-images.githubusercontent.com/39911598/159023665-de2412d1-ea51-46d3-93d8-fda2b19cf171.png">
