@@ -26,3 +26,4 @@ docObj = {
 }
 
 r = requests.put(host+'/'+index, auth=('username', 'password'))
+
